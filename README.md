@@ -1,6 +1,6 @@
 # Full Stack Web Development Bootcamp
 
-## Description
+### Description
 
 Completed a comprehensive Full Stack Web Development course covering the fundamentals of modern web development. I gained hands-on experience building responsive front-end interfaces, developing back-end applications and APIs, working with databases, implementing authentication, and deploying web applications.
 
